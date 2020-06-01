@@ -1,4 +1,4 @@
-# mathy_extended
+# Flutter Production Architecture with Provider
 
 A new Flutter project.
 
